@@ -2,7 +2,7 @@ In this link there is a Google Spreadsheet that includes a list of tools that ca
 
 [a11y-evaluation-tools list](https://docs.google.com/spreadsheets/d/10CTezA0iDdaWggaqxuHawj-5u8YXdZeWBJsIkuvJ364/edit?usp=sharing)
 
-It is possible to collaborate, sending proposals for corrections of the list, or new tools to be included. For this you can open an issue on [GitHub](https://github.com/josehilera/a11y-evaluation-tools), or send a message to jose.hilera@uah.es, or via X at [@software_a11y](https://x.com/software_a11y).
+It is possible to collaborate, sending proposals for corrections of the list, or new tools to be included. For this you can open an issue on [GitHub](https://github.com/jose-hilera/a11y-evaluation-tools), or send a message to jose.hilera@uah.es, or via X at [@software_a11y](https://x.com/software_a11y).
 
 The meaning of the columns in the list is the following:
 
